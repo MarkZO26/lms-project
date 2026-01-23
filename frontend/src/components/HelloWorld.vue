@@ -12,6 +12,7 @@ defineProps({
       <div class="nav-links">
         <a href="/login" class="btn-outline">Login</a>
         <a href="/register" class="btn">Register</a>
+        <a href="/I love You" class="btn">I love YOu</a>
       </div>
     </nav>
 
